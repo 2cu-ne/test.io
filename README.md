@@ -1,5 +1,5 @@
 # My Blog
-Đây là blog cá nhân của mình viết bằng **GitHub Pages** 🚀  
+Đây là blog cá nhân của bomay 🚀  
 
 ## Nội dung
 - Giới thiệu
